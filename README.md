@@ -1,0 +1,1 @@
+# spfx-TaxonomyPickerControl-POC
